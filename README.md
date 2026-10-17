@@ -4,7 +4,7 @@
 
 A free, zero-install calculator for poker players and traders: confidence intervals for your winrate / mean return / Sharpe ratio, and how many hands or trades you need before the result means anything.
 
-👉 **Live demo / Pruébala online:** https://USUARIO.github.io/sample-size-calculator/ *(GitHub Pages)*
+👉 **Live demo / Pruébala online:** https://S4ntos23.github.io/sample-size-calculator/ *(GitHub Pages)*
 
 ![screenshot](docs/screenshot.png)
 
